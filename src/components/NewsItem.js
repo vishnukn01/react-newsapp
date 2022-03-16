@@ -10,7 +10,7 @@ const NewsItem = (props) => {
     return (
       <div className="my-3">
         <div className="card">
-          <span class="position-absolute start-100 top-0 translate-middle badge rounded-pill bg-primary">
+          <span className="position-absolute start-100 top-0 translate-middle badge rounded-pill bg-primary">
             {source}
           </span>
           <img
